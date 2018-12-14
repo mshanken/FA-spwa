@@ -1,0 +1,22 @@
+# Project ignored files by git
+node_modules
+cache/
+log/
+content-cache/
+content_cache.lock
+.DS_Store
+.project
+._*
+.settings/
+.buildpath
+.vagrant
+.kitchen
+Berksfile.lock
+Gemfile.lock
+lib/SysConfig.config.php
+web/webgrind/
+web/phpinfo.php
+data/wso_content_types.json
+bower_components/
+vendor/
+.env
